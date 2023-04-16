@@ -25,7 +25,7 @@ The Swift examples of dirty code demonstrate the following anti-patterns:
 
 ## Benchmark results:
 
-
+![iOS Benchmark](https://github.com/albu-alex/CleanVsDirtyCode/blob/main/assets/iOS_Benchmark.png)
 
 ## Ionic
 
