@@ -45,6 +45,10 @@ The Ionic examples of dirty code demonstrate the following anti-patterns:
 - Overuse of custom CSS instead of utilizing the Ionic component library
 - Lack of consistency in formatting and indentation
 
+## Benchmark results:
+
+![Ionic Benchmark](https://github.com/albu-alex/CleanVsDirtyCode/blob/main/assets/Ionic_Benchmark.png)
+
 ## Conclusion
 
-By examining these examples of clean and dirty code, developers can learn best practices for writing maintainable and scalable code in Swift and Ionic.
+By examining these examples of clean and dirty code, the results were a lot more clear for the Swift implementation, with the clean code implmementation being consistently better. Regarding Ionic, the same cannot be said. A quick analysis of the implementation showed me that the clean code is mostly faster than dirty code, but this is not a rule.
